@@ -1,0 +1,26 @@
+[
+  {
+    "name": "honey",
+    "description": "hiii",
+    "price": 150,
+    "discountPrice": 10,
+    "stock": 12,
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRUiCG2Qqt1rct936cZ78mAXTYsFgRVhKiz93JEKvFmMZjOR6CX2759iKQelmiP4_e3urzAicVu93Y-k0tP1RTVnxigavadf0hHxg4OvG3eQxZG3u7Z_toa-A",
+    "category": "3",
+    "featured": false,
+    "id": "1764596610313",
+    "createdAt": "2025-12-01T13:43:30.313Z"
+  },
+  {
+    "name": "oil",
+    "description": "Cold-Pressed Organic Groundnut Oil – 100% Pure & Natural | Wood Pressed | Chemical-Free | Healthy Cooking Oil\n\nDiscover the richness of nature with our Organic Groundnut Oil, extracted using the traditional cold-pressed method to retain all the natural nutrients and aroma. Sourced from the finest organic groundnuts and free from chemicals, preservatives, or artificial additives, this oil is your perfect companion for healthy cooking.\n\n🌿 Key Features:\n100% Organic: Made from certified organic groundnuts grown without synthetic pesticides or fertilizers.\n\nCold-Pressed / Wood-Pressed: Extracted at low temperatures to preserve nutrients and flavor.\n\nUnrefined & Chemical-Free: No refining, no bleaching, no deodorizing—just pure, wholesome oil.\n\nRich in Nutrients: High in monounsaturated fats and Vitamin E, supporting heart and skin health.\n\nDeliciously Nutty Aroma: Enhances the taste of Indian cooking, stir-fries, deep frying, and baking.\n\n🥄 Uses:\nPerfect for cooking, frying, sautéing, and even skincare or haircare routines.\n\n📦 Packaging:\nAvailable in eco-friendly, tamper-proof bottles to maintain freshness and quality.\n\nChoose health. Choose purity. Switch to our Organic Groundnut Oil today and bring the taste of tradition to your kitchen.",
+    "price": 300,
+    "discountPrice": 250,
+    "stock": 30,
+    "image": "https://www.srhealthychoice.com/cdn/shop/files/Gemini_Generated_Image_vfhuf6vfhuf6vfhu.png?v=1760292877&width=1100",
+    "category": "1",
+    "featured": false,
+    "id": "1764598507966",
+    "createdAt": "2025-12-01T14:15:07.966Z"
+  }
+]
